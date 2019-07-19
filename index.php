@@ -11,5 +11,6 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ea aut unde dolorum, voluptas odio doloremque dicta optio incidunt magni repudiandae voluptatem adipisci, blanditiis maxime tenetur natus praesentium accusantium tempora!</p>
+    <h2>Tambah h2</h2>
 </body>
 </html>
